@@ -1,4 +1,4 @@
-## Banner Battle
+# BANNER BATTLE
 
 ### Project Overview
 
