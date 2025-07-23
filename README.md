@@ -2,9 +2,9 @@
 
 ### Project Overview
 
-This project explores whether different banner ad types—**sneakers** vs. **accessories**—have a measurable impact on **sales conversions** among desktop users during **May 2019**. Using real-world customer data, we apply A/B testing principles to determine if banner design can influence purchase behavior.
+This project explores whether different banner ad types: **sneakers** vs. **accessories**, have a measurable impact on **sales conversions** among desktop users during **May 2019**. Using real-world customer data, I applied A/B testing principles to determine if banner design can influence purchase behavior.
 
-This isn’t a theoretical exercise—it’s a practical test of how design and marketing choices translate into business outcomes.
+This isn’t a theoretical exercise, it’s a practical test of how design and marketing choices translate into business outcomes.
 
 ### Research Question
 
